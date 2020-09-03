@@ -1,2 +1,11 @@
 .env
 .env.build
+_site
+.sass-cache
+.DS_Store
+Gemfile.lock
+codekit-config.json
+node_modules
+_asset_bundler_cache
+public
+
