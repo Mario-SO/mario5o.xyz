@@ -22,9 +22,9 @@ on bullet journaling)
 Also trying to build a good Knowledge Managment System (Trying out a bunch of different approaches and apps)
 
 ### 3. Programming
-Also a very broad and scarse way of describing an area of interest. To be clear, I just installed Majaro linux
-on my main machine, so yes you could say I'm into Linux. 
+Also a very broad and scarse way of describing an area of interest. To be clear, I just installed Manjaro linux
+on my main machine (Arch linux for pussys), so yes you could say I'm into Linux. 
 
 And last but not least, Reverse Engeneering + Binary Explotaition.
 I'm enjoying a lot the website crackmes.one and reversing C binaries with radare2 (A terminal
-based RSE tool, very difficult to master i must say)
+based RSE tool, very difficult to master I must say)
