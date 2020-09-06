@@ -32,7 +32,7 @@ copyright = "&copy; Copyright 2020, Mario 5O"
 # Configuration Features
 [params]
     header_title = "Mario 5O"                 # Your header title
-    header_subtitle = "Computer Engeneering | ETSISI | Madrid" # Your header subtitle
+    header_subtitle = "Computer Engineering | ETSISI | Madrid" # Your header subtitle
     home_image = "/images/avatar.png"          # Path to header image starting from the static directory
     recent_posts = 4                           # Max amount of recent posts to show
     mainSections = ["posts", "post", "blog"]   # Main sections to include in recent posts
