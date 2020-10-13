@@ -11,8 +11,8 @@ Si está aquí seguramente sea por que me has visto por [mi canal de twitch](htt
 Los componentes por los que la gente pregunta normalmente serían la gráfica, el procesador, y cuantas GB de RAM. Si eso es lo que te interesa te lo cuento ahora y así te ahorro el seguir leyendo ;)
 
 
-| Componente   | Características                     |
-| :----------: | :---------------------------------: |
+| Componente   | &nbsp;&nbsp;&nbsp; Características  |
+| ------------ | ----------------------------------- |
 | Gráfica      | NVIDIA RTX 2060 Super con 8GB GDDR6 |
 | Procesador   | AMD Ryzen 7 3700x                   |
 | RAM          | 16GB DDR4 2x8GB                     |
