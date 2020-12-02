@@ -18,7 +18,11 @@ Los componentes por los que la gente pregunta normalmente serían la gráfica, e
 | RAM          | 16GB DDR4 2x8GB                     |
 
 
-Para el procesador decidí coger AMD por su mayor número de núcleos y por su precio. A pesar de que los juegos estén mejor optimizados para los Intel, prefiero un rendimiento mejor en el resto de cosas, y eso lo podía conseguir con un procesador con más núcleos. Un I5 10600k tiene 6 núcleos, mientras que mi AMD son 8. A ver, hay muchísimos matices en lo que respecta a los procesadores de hoy en día, no se puede resumir todo a cuantos núcleos tienen y a que velocidad, de hecho son tan complejos que resumirlos a esos pocos detalles, puede que ofenda a algunas personas pero bueno... El caso es justificarse de alguna manera.
+Para el procesador decidí coger AMD por su mayor número de núcleos y por su precio. 
+
+A pesar de que los juegos estén mejor optimizados para los Intel, prefiero un rendimiento mejor en el resto de cosas, y eso lo podía conseguir con un procesador con más núcleos. Un I5 10600k tiene 6 núcleos, mientras que mi AMD tiene 8. 
+
+A ver, hay muchísimos matices en lo que respecta a los procesadores de hoy en día, no se puede resumir todo a cuantos núcleos tienen y a que velocidad, de hecho son tan complejos que resumirlos a esos pocos detalles, puede que ofenda a algunas personas pero bueno... El caso es justificarse de alguna manera.
 
 La gráfica simplemente la cogí basandome en el precio, estaba rebajada unos pocos eurillos :| y bueno está bastante potente no?
 
