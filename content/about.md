@@ -29,3 +29,6 @@ on my main machine (Arch linux for pussys), so yes you could say I'm into Linux
 
 Last but not least, I'm starting to gain a lot of interest on competitive programming so you can also expect 
 some posts about some CP problems I find interesting. I actually wrote a post on [Medium](https://codeburst.io/greedy-algorithms-101-957842232cf2) about Greedy algs some time ago.
+
+As of today (01/12/2020 - dd/mm/yyy format) I bought the designcode.io one year membership to start building iOS apps
+hoping to release a couple of apps and maybe get another mini source of income.

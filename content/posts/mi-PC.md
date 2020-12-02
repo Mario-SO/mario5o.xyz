@@ -26,4 +26,5 @@ De la RAM tampoco puedo decir mucho, corre a 3200Mhz (creo recordar) y en la pla
 
 ## El resto de cositas
 
-To be continued...
+Pues aqui se supone que iba a poner el resto de componentes y tal del PC pero me parece aburrido y realmente a nadie
+le importa así que este post acaba aquí :)
