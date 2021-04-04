@@ -6,7 +6,7 @@ relativeURLs = true
 enableEmoji = true
 googleAnalytics = ""
 enableRobotsTXT = true
-copyright = "&copy; Copyright 2020, Mario 5O"
+copyright = "&copy; Copyright 2021, Mario 5O"
 
 # Main menu items
 [menu]
@@ -48,7 +48,6 @@ copyright = "&copy; Copyright 2020, Mario 5O"
     [[params.social]]
         fa_icon = "fas fa-at fa-1x"
         href = "mailto:mariodevmail1010@gmail.com"
-
     [params.style]
         backgoundColor = "#141d26"
         fontColor = "#ffffff"
