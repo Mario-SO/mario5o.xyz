@@ -1,53 +1,55 @@
 baseURL = "https://mario5o-xyz.vercel.app/"
-title = "Mario5O | Vires In Numeris"
 languageCode = "en-us"
-theme = "devise"
-relativeURLs = true
-enableEmoji = true
-googleAnalytics = ""
-enableRobotsTXT = true
-copyright = "&copy; Copyright 2021, Mario 5O"
+title = "Vires In Numeris"
+theme="archie"
+copyright = "© M-5O"
+# Code Highlight
+pygmentsstyle = "gruvbox"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
 
-# Main menu items
-[menu]
-    [[menu.main]]
-        identifier = "about"
-        name = "/ About"
-        title = "About"
-        url = "/about/"
-        weight = -110
-    [[menu.main]]
-        identifier = "posts"
-        name = "/ Posts"
-        title = "Posts"
-        url = "/posts/"
-        weight = -100
-    [[menu.main]]
-        identifier = "categories"
-        name = "/ Categories"
-        title = "Categories"
-        url = "/categories/"
-        weight = -90
+paginate=4 # articles per page
 
-# Configuration Features
 [params]
-    header_title = "Mario 5O"                 # Your header title
-    header_subtitle = "Computer Engineering | ETSISI | Madrid" # Your header subtitle
-    home_image = "/images/avatar.png"          # Path to header image starting from the static directory
-    recent_posts = 4                           # Max amount of recent posts to show
-    mainSections = ["posts", "post", "blog"]   # Main sections to include in recent posts
-    [[params.social]]
-        fa_icon = "fab fa-github fa-1x"          # Font Awesome icon class
-        href = "http://github.com/Mario-SO"      # Link to associate with icon (http://, https://, mailto:)
-    [[params.social]]
-        fa_icon = "fab fa-reddit fa-1x"
-        href = "https://www.reddit.com/user/_BTA"
-    [[params.social]]
-        fa_icon = "fab fa-twitter fa-1x"
-        href = "https://twitter.com/Mario_5O"
-    [[params.social]]
-        fa_icon = "fas fa-at fa-1x"
-        href = "mailto:mariodevmail1010@gmail.com"
-    [params.style]
-        backgoundColor = "#141d26"
-        fontColor = "#ffffff"
+	mode = "dark" # color-mode → light,dark or auto
+	useCDN = false # don't use CDNs for fonts and icons, instead serve them locally.
+	subtitle = "Minimal and Clean [blog theme for Hugo](https://github.com/athul/archie)"
+
+# Social Tags
+
+[[params.social]]
+    name = "GitHub"
+    icon = "github"
+    url = "https://github.com/athul/archie"
+
+[[params.social]]
+    name = "Twitter"
+    icon = "twitter"
+    url = "https://twitter.com/athulcajay/"
+
+[[params.social]]
+    name = "GitLab"
+    icon = "gitlab"
+    url = "https://gitlab.com/athul/"
+
+# Main menu Items
+
+[[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+
+[[menu.main]]
+    name = "All posts"
+    url = "/posts"
+    weight = 2
+
+[[menu.main]]
+    name = "About"
+    url = "/about"
+    weight = 3
+
+[[menu.main]]
+    name = "Tags"
+    url = "/tags"
+    weight = 4
